@@ -1,0 +1,8 @@
+numpy
+torch
+torchvision
+matplotlib
+networkx
+pygraphviz
+tqdm
+poutyne
